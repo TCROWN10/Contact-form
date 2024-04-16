@@ -1,0 +1,40 @@
+body{
+    background-image: url("Image\ 2.jpeg");
+    background-position: center;
+    
+}
+.Tobi1{
+    color: rgb(7, 68, 87);
+    text-align: center;
+    font-size: xx-large;
+}
+.Tobi-submit{
+    background: red;
+    margin: auto;
+    max-width: 450px;
+    padding: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 40px;
+}
+.Tobi-submit input{
+    width: 500px;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    height: 30px;
+    
+}
+.Tobi2{
+    background: blue;
+    padding: 10px;
+    border-radius: 10px;
+    border: blue;
+    cursor: pointer;
+    color: whitesmoke;
+}
+.Tobi2:hover{
+    background:transparent;
+    color: lawngreen;
+}
